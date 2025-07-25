@@ -1,0 +1,1 @@
+export default function DoctorListingPage() { return <div>Listing</div>; }

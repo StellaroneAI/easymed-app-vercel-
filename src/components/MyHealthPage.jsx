@@ -1,0 +1,1 @@
+export default function MyHealthPage() { return <div>Health</div>; }

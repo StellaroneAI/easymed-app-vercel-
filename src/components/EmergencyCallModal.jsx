@@ -1,0 +1,1 @@
+export default function EmergencyCallModal() { return <div>Emergency</div>; }
